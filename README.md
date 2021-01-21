@@ -1,5 +1,7 @@
 """
   instruction to create git Repository
+  Create a Git Repository
+For this assignment, create a new repository containing a Python script. Feel free to use one of your previous assignment from the Introduction to Python course, or write a simple "hello world" script.
 """
 1) github.com, create Repository
 - copy the URL link
